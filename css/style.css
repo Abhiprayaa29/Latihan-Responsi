@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+}
+
+max-h-screen {
+  max-height: 100vh;
+}
+
+h-screen {
+  height: 100vh;
+}
